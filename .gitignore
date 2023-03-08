@@ -1,0 +1,6 @@
+dataset4_image/
+dataset4_csv/
+
+model/superx.h5
+model/supery.h5
+model/superz.h5
